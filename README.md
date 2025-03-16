@@ -13,10 +13,7 @@
 - 💬 Ask me about React, Node.js, System Design, or Algorithm Optimization
 - 📫 Reach me at: nikhil11072005@example.com
 
-
-
-
-
+<br><br><br>
 ### 🛠️ Tech Stack
 
 #### Languages
