@@ -1,28 +1,61 @@
-Nikhil | Full Stack Developer
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+## Nikhil | Full Stack Developer
 
-<img alt="Linkedin Badge" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&amp;logo=Linkedin&amp;logoColor=white">
-<img alt="Website Badge" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&amp;logo=google-chrome&amp;logoColor=white">
-<img alt="Twitter Badge" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&amp;logo=Twitter&amp;logoColor=white">
-<img alt="Gmail Badge" src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white">
-</div> <img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
-👨‍💻 About Me
-🔭 I'm currently working on building scalable microservices
-🌱 I'm learning AWS, Docker, and Kubernetes
-👯 Open for collaborations on innovative web applications
-💬 Ask me about React, Node.js, System Design, or Algorithm Optimization
-📫 Reach me at: nikhil@example.com
-📄 Check my experiences on my portfolio
-⚡ Fun fact: I've contributed to over 20 open source projects
-🛠️ Tech Stack
-<details open> <summary><b>Languages</b></summary> <br> <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/> </a> <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="c++"/> </a> <a href="https://www.iso.org/standard/74528.html" target="_blank"> <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="c"/> </a> </p> </details> <details open> <summary><b>Frontend Development</b></summary> <br> <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a> </p> </details> <details open> <summary><b>Backend Development</b></summary> <br> <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="express"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring-boot"/> </a> </p> </details> <details open> <summary><b>Database & Storage</b></summary> <br> <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/> </a> </p> </details> <details> <summary><b>DevOps & Cloud</b></summary> <br> <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/> </a> <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="github actions"/> </a> </p> </details>
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=babu-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babu-dev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="langs"/> </div> <div align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=babu-dev&theme=tokyonight&hide_border=true" alt="streak-stats" /> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=babu-dev&theme=tokyonight&utcOffset=5.30" alt="productive-time" /> </div>
-🏆 Featured Projects
-<div align="center"> <a href="https://github.com/babu-dev/e-commerce-platform"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=babu-dev&repo=e-commerce-platform&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/babu-dev/ai-image-generator"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=babu-dev&repo=ai-image-generator&theme=tokyonight&hide_border=true" /> </a> </div> <div align="center"> <a href="https://github.com/babu-dev/real-time-chat-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=babu-dev&repo=real-time-chat-app&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/babu-dev/blockchain-voting-system"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=babu-dev&repo=blockchain-voting-system&theme=tokyonight&hide_border=true" /> </a> </div>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=babu-dev&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" /> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=babu-dev&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/> </p>
-🎯 Support
-<p align="center"> <a href="https://www.buymeacoffee.com/nikhildev" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px"> </a> </p> <div align="center"> <img src="https://komarev.com/ghpvc/?username=babu-dev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+
+### 👨‍💻 About Me
+- 🔭 I'm currently working on building scalable microservices
+- 🌱 I'm learning AWS, Docker, and Kubernetes
+- 👯 Open for collaborations on innovative web applications
+- 💬 Ask me about React, Node.js, System Design, or Algorithm Optimization
+- 📫 Reach me at: nikhil11072005@example.com
+
+
+### 🛠️ Tech Stack
+
+#### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+#### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+</p>
+
+#### Database & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+#### DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
